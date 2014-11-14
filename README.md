@@ -10,7 +10,7 @@ PHP, Java, HTML, Javascript
 
 **Known frameworks**
 
-Silex
+Symfony2, Silex
 - - -
 **Known CMS**
 
